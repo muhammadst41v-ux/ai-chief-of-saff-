@@ -1,0 +1,6 @@
+{
+  "name": "Chief – AI Chief of Staff",
+  "description": "Executive AI Chief of Staff that synthesizes your calendar and inbox every morning into an actionable Morning Brief, triages emails, drafts responses, and flags schedule conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
